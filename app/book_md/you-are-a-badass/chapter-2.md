@@ -1,0 +1,122 @@
+![Shortform App](/img/logo.36a2399e.svg)![Shortform App](/img/logo-dark.70c1b072.svg)
+
+Discover
+
+Books
+
+Articles
+
+My library
+
+Search
+
+Discover
+
+![Shortform App](/img/logo.36a2399e.svg)![Shortform App](/img/logo-dark.70c1b072.svg)
+
+# You Are A Badass
+
+Back to Discover
+
+[[book_md/you-are-a-badass/preview|preview]]
+
+  * [[book_md/you-are-a-badass|you-are-a-badass]]
+  * Full Book Guide
+
+    * [[book_md/you-are-a-badass/introduction|introduction]]
+    * [[book_md/you-are-a-badass/section-1|section-1]]
+    * [[book_md/you-are-a-badass/chapter-2|chapter-2]]
+    * [[book_md/you-are-a-badass/chapter-3|chapter-3]]
+    * [[book_md/you-are-a-badass/exercise-the-life-you-want-is-here-right-now|exercise-the-life-you-want-is-here-right-now]]
+    * [[book_md/you-are-a-badass/chapter-4|chapter-4]]
+    * [[book_md/you-are-a-badass/exercise-the-evil-ego|exercise-the-evil-ego]]
+    * [[book_md/you-are-a-badass/chapter-5|chapter-5]]
+    * [[book_md/you-are-a-badass/section-2|section-2]]
+    * [[book_md/you-are-a-badass/chapter-7|chapter-7]]
+    * [[book_md/you-are-a-badass/exercise-other-peoples-opinions-are-not-your-problem|exercise-other-peoples-opinions-are-not-your-problem]]
+    * [[book_md/you-are-a-badass/chapter-8|chapter-8]]
+    * [[book_md/you-are-a-badass/exercise-whats-your-purpose|exercise-whats-your-purpose]]
+    * [[book_md/you-are-a-badass/chapter-9|chapter-9]]
+    * [[book_md/you-are-a-badass/section-3|section-3]]
+    * [[book_md/you-are-a-badass/chapter-11|chapter-11]]
+    * [[book_md/you-are-a-badass/chapter-12|chapter-12]]
+    * [[book_md/you-are-a-badass/exercise-your-inner-beginner|exercise-your-inner-beginner]]
+    * [[book_md/you-are-a-badass/chapter-13|chapter-13]]
+    * [[book_md/you-are-a-badass/chapter-14|chapter-14]]
+    * [[book_md/you-are-a-badass/exercise-finding-the-good-in-any-situation|exercise-finding-the-good-in-any-situation]]
+    * [[book_md/you-are-a-badass/chapter-15|chapter-15]]
+    * [[book_md/you-are-a-badass/exercise-the-art-of-forgiveness|exercise-the-art-of-forgiveness]]
+    * [[book_md/you-are-a-badass/chapter-16|chapter-16]]
+    * [[book_md/you-are-a-badass/section-4|section-4]]
+    * [[book_md/you-are-a-badass/exercise-write-a-new-story-for-yourself|exercise-write-a-new-story-for-yourself]]
+    * [[book_md/you-are-a-badass/chapter-18|chapter-18]]
+    * [[book_md/you-are-a-badass/chapter-19|chapter-19]]
+    * [[book_md/you-are-a-badass/chapter-20|chapter-20]]
+    * [[book_md/you-are-a-badass/exercise-fight-the-fear|exercise-fight-the-fear]]
+    * [[book_md/you-are-a-badass/chapter-21|chapter-21]]
+    * [[book_md/you-are-a-badass/exercise-everybodys-a-mirror|exercise-everybodys-a-mirror]]
+    * [[book_md/you-are-a-badass/chapter-22|chapter-22]]
+    * [[book_md/you-are-a-badass/section-5|section-5]]
+    * [[book_md/you-are-a-badass/chapter-24|chapter-24]]
+    * [[book_md/you-are-a-badass/exercise-manifesting-money|exercise-manifesting-money]]
+    * [[book_md/you-are-a-badass/chapter-25|chapter-25]]
+    * [[book_md/you-are-a-badass/chapter-26|chapter-26]]
+    * [[book_md/you-are-a-badass/exercise-change-means-getting-and-staying-uncomfortable|exercise-change-means-getting-and-staying-uncomfortable]]
+    * [[book_md/you-are-a-badass/chapter-27|chapter-27]]
+  * [[book_md/you-are-a-badass/highlights|highlights]]
+  * [[book_md/you-are-a-badass/community|community]]
+
+
+
+Adding to Favorites 
+
+Removing from Favorites 
+
+## Chapter 2: You’re Not Tapping Into a Greater Power
+
+All of us are connected to a limitless power around us, but most of us use only a fraction of it — we’re missing out on using it to help create a better life. You can call this limitless power whatever you like: God, Goddess, The Universe, Source Energy, Higher Power, gut, intuition, Spirit, The Force, The Zone, or The Lord.
+
+**It doesn’t matter what you call it; what _is_ important is that you develop an awareness of and relationship with the energy around and within you.**
+
+Sincero was wary of God and snarky about “higher-power” stuff at the beginning of her self-improvement journey. But when she started reading books about finding your true calling, they all had a spiritual bent, so she decided to give God/spirituality a chance. She had nothing to lose. As she meditated more (more about meditation in later chapters) and became more connected with God, or Source Energy, the more she found she could manifest things into her life quickly and specifically. As she says, she figured out “how to make her magic wand work.”
+
+Think of it this way: energy is taking a ride in our human bodies. When you realize that you’re made up of and connected to Source Energy, you can use that energy to help make the physical experience of life as awesome as possible.
+
+### Frequency, Vibrations and the Law of Attraction
+
+Here’s how it works: the universe is made up of Source Energy. All energy inside and outside of ourselves vibrates at a certain frequency. The things we want and don’t want also have a frequency. Vibration attracts like vibration. This is also known as the Law of Attraction: Focus on what you want and that’s what you’ll attract.
+
+The Universe will match whatever vibration you put out. When we vibrate at a low level, we can’t expect awesome, high-frequency things to come to us. It’s like trying to tune into a certain radio station but not being able to receive it. **When you vibrate at a high frequency, you attract good things, opportunities, and people effortlessly.**
+
+The goal is to raise your vibration and attract wonderful things to your life. Y**ou create the reality you desire when you consciously master the energy around you, believe, and stay high frequency.**
+
+To raise your vibration, you need two things:
+
+  * **Belief** : Belief is what attracts the magic into your life. You must _believe_ that everything you want is possible. You have to keep believing even when things are at their crappiest; your faith has to be greater than your fear. When you stop believing, it’s akin to waking up from a dream when you realize you can’t actually fly.
+  * **Decisive action** : After we align our energy with what we want, we must take decisive action to allow good into our lives. We can’t just tune into a high frequency and expect good things fall into our lap.
+
+
+
+Later chapters will delve more deeply into tapping into Source Energy, how to keep belief strong and how to take decisive action. For now, awareness of Source Energy is enough.
+
+[[book_md/you-are-a-badass/section-1|section-1]]
+
+[[book_md/you-are-a-badass/chapter-3|chapter-3]]
+
+![](https://bat.bing.com/action/0?ti=56018282&Ver=2&mid=c5d8dafa-afa1-4f13-91b8-8f39f80bc1b7&sid=72e6e650642c11eeb2dd2161d176fe8d&vid=72e70890642c11eeb72d79fe7b6df2c6&vids=0&msclkid=N&pi=0&lg=en-US&sw=800&sh=600&sc=24&nwd=1&tl=Shortform%20%7C%20Book&p=https%3A%2F%2Fwww.shortform.com%2Fapp%2Fbook%2Fyou-are-a-badass%2Fchapter-2&r=&lt=1164&evt=pageLoad&sv=1&rn=925513)
+
+__
+
+  *   * Allow anyone to **view** this annotation
+  * Allow anyone to **edit** this annotation
+
+
+
+* * *
+
+Save Cancel
+
+__
+
+
+
