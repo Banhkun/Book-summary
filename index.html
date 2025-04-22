@@ -16783,6 +16783,7 @@
     </div>
   </div>
 
+  <button onclick="scrollToTop()" id="topBtn" title="Go to top">⬆️</button>
 <script>
   function toggleBtn(btn) {
     const list = btn.closest('.book').querySelector('.chapters');
@@ -16803,6 +16804,12 @@
       }
       const results = fuse.search(term).map(r => r.item.li);
       updateDisplay(results);
+    });
+
+    // Scroll event for back-to-top button
+    window.addEventListener('scroll', () => {
+      const btn = document.getElementById('topBtn');
+      btn.style.display = window.scrollY > 300 ? 'block' : 'none';
     });
   });
 
@@ -16831,6 +16838,30 @@
       book.querySelectorAll('.chapters li').forEach(li => li.style.display = '');
     });
   }
+
+  function scrollToTop() {
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  }
 </script>
+<style>
+  #topBtn {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    z-index: 100;
+    display: none;
+    background: #000dff;
+    color: white;
+    border: none;
+    padding: 12px 16px;
+    border-radius: 50%;
+    font-size: 1.2rem;
+    cursor: pointer;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+  }
+  #topBtn:hover {
+    background: #6b73ff;
+  }
+</style>
 </body>
 </html>
